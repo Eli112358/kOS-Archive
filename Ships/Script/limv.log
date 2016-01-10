@@ -1,80 +1,539 @@
 alt=106;v=-6;deltaV=-6
-alt=116;v=-13;deltaV=-6
-alt=134;v=-19;deltaV=-7
-alt=159;v=-26;deltaV=-7
-alt=192;v=-33;deltaV=-7
-alt=233;v=-40;deltaV=-7
-alt=282;v=-47;deltaV=-7
-alt=338;v=-54;deltaV=-7
-alt=405;v=-62;deltaV=-8
-alt=482;v=-70;deltaV=-8
-alt=563;v=-78;deltaV=-8
-alt=654;v=-86;deltaV=-8
-alt=755;v=-95;deltaV=-9
-alt=871;v=-104;deltaV=-9
-alt=1000;v=-114;deltaV=-10
-alt=1131;v=-124;deltaV=-9
-alt=1280;v=-134;deltaV=-10
-alt=1435;v=-144;deltaV=-10
-alt=1599;v=-154;deltaV=-10
+alt=117;v=-12;deltaV=-6
+alt=136;v=-18;deltaV=-6
+alt=162;v=-24;deltaV=-6
+alt=196;v=-30;deltaV=-6
+alt=238;v=-36;deltaV=-6
+alt=288;v=-43;deltaV=-7
+alt=346;v=-50;deltaV=-7
+alt=411;v=-56;deltaV=-7
+alt=487;v=-63;deltaV=-7
+alt=570;v=-70;deltaV=-7
+alt=670;v=-78;deltaV=-8
+alt=772;v=-86;deltaV=-8
+alt=886;v=-94;deltaV=-8
+alt=1011;v=-102;deltaV=-8
+alt=1146;v=-111;deltaV=-9
+alt=1290;v=-120;deltaV=-9
+alt=1447;v=-129;deltaV=-9
+alt=1617;v=-138;deltaV=-9
+alt=1794;v=-148;deltaV=-9
+alt=1988;v=-157;deltaV=-10
+alt=2198;v=-167;deltaV=-10
 Wasting fuel; throttled to 0.9
-alt=1769;v=-163;deltaV=-8
-alt=1963;v=-172;deltaV=-9
-alt=2156;v=-180;deltaV=-9
-alt=2363;v=-190;deltaV=-9
-alt=2575;v=-199;deltaV=-9
-alt=2803;v=-208;deltaV=-9
+alt=2415;v=-175;deltaV=-8
+alt=2639;v=-184;deltaV=-8
+alt=2873;v=-192;deltaV=-8
+alt=3122;v=-200;deltaV=-9
+alt=3372;v=-209;deltaV=-8
+alt=3638;v=-217;deltaV=-9
+alt=3920;v=-226;deltaV=-9
 Wasting fuel; throttled to 0.81
-Wasting fuel; throttled to 0.72
-Wasting fuel; throttled to 0.63
-Wasting fuel; throttled to 0.54
-alt=3032;v=-210;deltaV=-2
-alt=3268;v=-212;deltaV=-2
-alt=3505;v=-214;deltaV=-2
-alt=3745;v=-216;deltaV=-2
-alt=3987;v=-218;deltaV=-2
-alt=4231;v=-220;deltaV=-2
-Wasting fuel; throttled to 0.52
-Wasting fuel; throttled to 0.5
-Wasting fuel; throttled to 0.48
-Wasting fuel; throttled to 0.46
-alt=4471;v=-220;deltaV=0
-alt=4717;v=-221;deltaV=0
-alt=4964;v=-221;deltaV=-1
-alt=5211;v=-222;deltaV=-1
-alt=5458;v=-223;deltaV=-1
-alt=5707;v=-224;deltaV=-1
+alt=4207;v=-234;deltaV=-7
+alt=4514;v=-241;deltaV=-7
+Wasting fuel; throttled to 0.74
+alt=4824;v=-247;deltaV=-6
+alt=5136;v=-252;deltaV=-5
+Wasting fuel; throttled to 0.69
+alt=5459;v=-256;deltaV=-4
+alt=5788;v=-261;deltaV=-4
+Wasting fuel; throttled to 0.65
+alt=6122;v=-264;deltaV=-4
+alt=6461;v=-268;deltaV=-4
+Wasting fuel; throttled to 0.61
+alt=6797;v=-271;deltaV=-3
+alt=7137;v=-274;deltaV=-3
+Wasting fuel; throttled to 0.58
+alt=7487;v=-276;deltaV=-3
+alt=7835;v=-279;deltaV=-3
+Wasting fuel; throttled to 0.55
+alt=8206;v=-281;deltaV=-2
+alt=8559;v=-284;deltaV=-2
+Wasting fuel; throttled to 0.53
+alt=8915;v=-286;deltaV=-2
+alt=9282;v=-288;deltaV=-2
+Wasting fuel; throttled to 0.51
+alt=9643;v=-290;deltaV=-2
+alt=10015;v=-292;deltaV=-2
+Wasting fuel; throttled to 0.49
+alt=10389;v=-294;deltaV=-2
+alt=10759;v=-296;deltaV=-2
+Wasting fuel; throttled to 0.47
+alt=11131;v=-298;deltaV=-2
+alt=11505;v=-300;deltaV=-2
 Wasting fuel; throttled to 0.45
-Wasting fuel; throttled to 0.44
+alt=11882;v=-301;deltaV=-1
+alt=12260;v=-303;deltaV=-2
 Wasting fuel; throttled to 0.43
+alt=12633;v=-304;deltaV=-1
+alt=13022;v=-305;deltaV=-1
 Wasting fuel; throttled to 0.42
-alt=5951;v=-223;deltaV=0
-alt=6200;v=-223;deltaV=0
-alt=6444;v=-224;deltaV=0
-alt=6692;v=-224;deltaV=0
-alt=6941;v=-224;deltaV=0
-alt=7191;v=-224;deltaV=0
-Wasting fuel; throttled to 0.42
-Wasting fuel; throttled to 0.42
-Wasting fuel; throttled to 0.42
-Wasting fuel; throttled to 0.42
-alt=7435;v=-225;deltaV=0
-alt=7685;v=-225;deltaV=0
-alt=7936;v=-226;deltaV=-1
-alt=8182;v=-226;deltaV=-1
-alt=8434;v=-227;deltaV=-1
-alt=8686;v=-228;deltaV=-1
+alt=13428;v=-307;deltaV=-1
+alt=13837;v=-308;deltaV=-1
 Wasting fuel; throttled to 0.41
+alt=14255;v=-309;deltaV=-1
+alt=14659;v=-311;deltaV=-1
 Wasting fuel; throttled to 0.4
+alt=15073;v=-312;deltaV=-1
+alt=15489;v=-313;deltaV=-1
 Wasting fuel; throttled to 0.39
+alt=15900;v=-315;deltaV=-1
+alt=16312;v=-316;deltaV=-1
 Wasting fuel; throttled to 0.38
-alt=8939;v=-228;deltaV=0
-alt=9191;v=-227;deltaV=0
-alt=9439;v=-227;deltaV=0
-alt=9691;v=-227;deltaV=0
-alt=9944;v=-227;deltaV=0
-alt=10191;v=-228;deltaV=0
-Wasting fuel; throttled to 0.38
-Wasting fuel; throttled to 0.38
-Wasting fuel; throttled to 0.38
-Wasting fuel; throttled to 0.38
+alt=16725;v=-317;deltaV=-1
+alt=17141;v=-318;deltaV=-1
+Wasting fuel; throttled to 0.37
+alt=17558;v=-320;deltaV=-1
+alt=17969;v=-321;deltaV=-1
+Wasting fuel; throttled to 0.36
+alt=18382;v=-322;deltaV=-1
+alt=18796;v=-323;deltaV=-1
+Wasting fuel; throttled to 0.35
+alt=19219;v=-324;deltaV=-1
+alt=19628;v=-325;deltaV=-1
+Wasting fuel; throttled to 0.34
+alt=20037;v=-325;deltaV=-1
+alt=20456;v=-326;deltaV=-1
+Wasting fuel; throttled to 0.33
+alt=20869;v=-327;deltaV=-1
+alt=21282;v=-328;deltaV=-1
+Wasting fuel; throttled to 0.32
+alt=21696;v=-328;deltaV=0
+alt=22110;v=-329;deltaV=-1
+Wasting fuel; throttled to 0.31
+alt=22526;v=-329;deltaV=0
+alt=22942;v=-329;deltaV=0
+Wasting fuel; throttled to 0.31
+alt=23358;v=-330;deltaV=0
+alt=23800;v=-330;deltaV=-1
+Wasting fuel; throttled to 0.3
+alt=24251;v=-331;deltaV=0
+alt=24670;v=-331;deltaV=0
+Wasting fuel; throttled to 0.3
+alt=25114;v=-331;deltaV=0
+alt=25551;v=-332;deltaV=0
+Wasting fuel; throttled to 0.3
+alt=26005;v=-332;deltaV=-1
+alt=26434;v=-333;deltaV=-1
+Wasting fuel; throttled to 0.29
+alt=26857;v=-333;deltaV=0
+alt=27280;v=-334;deltaV=0
+Wasting fuel; throttled to 0.29
+alt=27712;v=-334;deltaV=0
+alt=28136;v=-335;deltaV=0
+Wasting fuel; throttled to 0.29
+alt=28569;v=-335;deltaV=-1
+alt=28995;v=-336;deltaV=-1
+Wasting fuel; throttled to 0.28
+alt=29430;v=-336;deltaV=0
+alt=29857;v=-336;deltaV=0
+Wasting fuel; throttled to 0.28
+alt=30310;v=-337;deltaV=0
+alt=30739;v=-337;deltaV=0
+Wasting fuel; throttled to 0.28
+alt=31185;v=-338;deltaV=0
+alt=31607;v=-338;deltaV=-1
+Wasting fuel; throttled to 0.27
+alt=32037;v=-338;deltaV=0
+alt=32460;v=-339;deltaV=0
+Wasting fuel; throttled to 0.27
+alt=32900;v=-339;deltaV=0
+alt=33333;v=-339;deltaV=0
+Wasting fuel; throttled to 0.27
+alt=33783;v=-340;deltaV=0
+alt=34233;v=-340;deltaV=0
+Wasting fuel; throttled to 0.27
+alt=34668;v=-341;deltaV=-1
+alt=35120;v=-341;deltaV=-1
+Wasting fuel; throttled to 0.26
+alt=35582;v=-342;deltaV=0
+alt=36036;v=-342;deltaV=0
+Wasting fuel; throttled to 0.26
+alt=36491;v=-343;deltaV=0
+alt=36946;v=-343;deltaV=0
+Wasting fuel; throttled to 0.26
+alt=37402;v=-343;deltaV=0
+alt=37858;v=-344;deltaV=0
+Wasting fuel; throttled to 0.26
+alt=38316;v=-344;deltaV=-1
+alt=38775;v=-345;deltaV=-1
+Wasting fuel; throttled to 0.25
+alt=39225;v=-345;deltaV=0
+alt=39676;v=-346;deltaV=0
+Wasting fuel; throttled to 0.25
+alt=40120;v=-346;deltaV=0
+alt=40572;v=-346;deltaV=0
+Wasting fuel; throttled to 0.25
+alt=41017;v=-347;deltaV=0
+alt=41462;v=-347;deltaV=0
+Wasting fuel; throttled to 0.25
+alt=41908;v=-348;deltaV=-1
+alt=42355;v=-348;deltaV=-1
+Wasting fuel; throttled to 0.24
+alt=42802;v=-349;deltaV=0
+alt=43268;v=-349;deltaV=0
+Wasting fuel; throttled to 0.24
+alt=43708;v=-349;deltaV=0
+alt=44157;v=-350;deltaV=0
+Wasting fuel; throttled to 0.24
+alt=44598;v=-350;deltaV=0
+alt=45048;v=-351;deltaV=0
+Wasting fuel; throttled to 0.24
+alt=45500;v=-351;deltaV=-1
+alt=45961;v=-352;deltaV=-1
+Wasting fuel; throttled to 0.23
+alt=46422;v=-352;deltaV=0
+alt=46902;v=-352;deltaV=0
+Wasting fuel; throttled to 0.23
+alt=47347;v=-352;deltaV=0
+alt=47819;v=-353;deltaV=0
+Wasting fuel; throttled to 0.23
+alt=48292;v=-353;deltaV=0
+alt=48766;v=-354;deltaV=0
+Wasting fuel; throttled to 0.23
+alt=49240;v=-354;deltaV=0
+alt=49697;v=-355;deltaV=0
+Wasting fuel; throttled to 0.23
+alt=50146;v=-355;deltaV=-1
+alt=50623;v=-356;deltaV=-1
+Wasting fuel; throttled to 0.22
+alt=51091;v=-356;deltaV=0
+alt=51560;v=-356;deltaV=0
+Wasting fuel; throttled to 0.22
+alt=52030;v=-356;deltaV=0
+alt=52509;v=-357;deltaV=0
+Wasting fuel; throttled to 0.22
+alt=52971;v=-357;deltaV=0
+alt=53451;v=-358;deltaV=0
+Wasting fuel; throttled to 0.22
+alt=53914;v=-358;deltaV=0
+alt=54387;v=-359;deltaV=-1
+Wasting fuel; throttled to 0.21
+alt=54852;v=-359;deltaV=0
+alt=55317;v=-359;deltaV=0
+Wasting fuel; throttled to 0.21
+alt=55773;v=-359;deltaV=0
+alt=56248;v=-359;deltaV=0
+Wasting fuel; throttled to 0.21
+alt=56714;v=-360;deltaV=0
+alt=57190;v=-360;deltaV=0
+Wasting fuel; throttled to 0.21
+alt=57658;v=-360;deltaV=0
+alt=58135;v=-361;deltaV=0
+Wasting fuel; throttled to 0.21
+alt=58613;v=-361;deltaV=0
+alt=59092;v=-362;deltaV=0
+Wasting fuel; throttled to 0.21
+alt=59562;v=-362;deltaV=-1
+alt=60043;v=-363;deltaV=-1
+Wasting fuel; throttled to 0.2
+alt=60514;v=-363;deltaV=0
+alt=60987;v=-363;deltaV=0
+Wasting fuel; throttled to 0.2
+alt=61469;v=-364;deltaV=0
+alt=61942;v=-364;deltaV=0
+Wasting fuel; throttled to 0.2
+alt=62407;v=-364;deltaV=0
+alt=62872;v=-365;deltaV=0
+Wasting fuel; throttled to 0.2
+alt=63347;v=-365;deltaV=0
+alt=63823;v=-365;deltaV=0
+Wasting fuel; throttled to 0.2
+alt=64318;v=-366;deltaV=0
+alt=64805;v=-366;deltaV=0
+Wasting fuel; throttled to 0.2
+alt=65292;v=-367;deltaV=-1
+alt=65762;v=-367;deltaV=-1
+Wasting fuel; throttled to 0.19
+alt=66261;v=-368;deltaV=0
+alt=66731;v=-368;deltaV=0
+Wasting fuel; throttled to 0.19
+alt=67212;v=-368;deltaV=0
+alt=67684;v=-369;deltaV=0
+Wasting fuel; throttled to 0.19
+alt=68175;v=-369;deltaV=0
+alt=68667;v=-369;deltaV=0
+Wasting fuel; throttled to 0.19
+alt=69140;v=-370;deltaV=0
+alt=69615;v=-370;deltaV=0
+Wasting fuel; throttled to 0.19
+alt=70109;v=-371;deltaV=0
+alt=70603;v=-371;deltaV=-1
+Wasting fuel; throttled to 0.18
+alt=71089;v=-371;deltaV=0
+alt=71566;v=-371;deltaV=0
+Wasting fuel; throttled to 0.18
+alt=72072;v=-372;deltaV=0
+alt=72559;v=-372;deltaV=0
+Wasting fuel; throttled to 0.18
+alt=73046;v=-372;deltaV=0
+alt=73525;v=-372;deltaV=0
+Wasting fuel; throttled to 0.18
+alt=74014;v=-373;deltaV=0
+alt=74522;v=-373;deltaV=0
+Wasting fuel; throttled to 0.18
+alt=75012;v=-374;deltaV=0
+alt=75503;v=-374;deltaV=0
+Wasting fuel; throttled to 0.18
+alt=76003;v=-374;deltaV=0
+alt=76505;v=-375;deltaV=0
+Wasting fuel; throttled to 0.18
+alt=76998;v=-375;deltaV=0
+alt=77482;v=-376;deltaV=-1
+Wasting fuel; throttled to 0.17
+alt=78005;v=-376;deltaV=0
+alt=78500;v=-376;deltaV=0
+Wasting fuel; throttled to 0.17
+alt=78995;v=-377;deltaV=0
+alt=79491;v=-377;deltaV=0
+Wasting fuel; throttled to 0.17
+alt=79997;v=-377;deltaV=0
+alt=80494;v=-377;deltaV=0
+Wasting fuel; throttled to 0.17
+alt=81001;v=-378;deltaV=0
+alt=81509;v=-378;deltaV=0
+Wasting fuel; throttled to 0.17
+alt=82017;v=-379;deltaV=0
+alt=82517;v=-379;deltaV=0
+Wasting fuel; throttled to 0.17
+alt=83026;v=-380;deltaV=0
+alt=83527;v=-380;deltaV=0
+Wasting fuel; throttled to 0.17
+alt=84029;v=-381;deltaV=-1
+alt=84522;v=-381;deltaV=-1
+Wasting fuel; throttled to 0.16
+alt=85025;v=-381;deltaV=0
+alt=85519;v=-381;deltaV=0
+Wasting fuel; throttled to 0.16
+alt=86033;v=-382;deltaV=0
+alt=86527;v=-382;deltaV=0
+Wasting fuel; throttled to 0.16
+alt=87052;v=-382;deltaV=0
+alt=87578;v=-383;deltaV=0
+Wasting fuel; throttled to 0.16
+alt=88084;v=-383;deltaV=0
+alt=88600;v=-383;deltaV=0
+Wasting fuel; throttled to 0.16
+alt=89108;v=-384;deltaV=0
+alt=89616;v=-384;deltaV=0
+Wasting fuel; throttled to 0.16
+alt=90125;v=-385;deltaV=0
+alt=90635;v=-385;deltaV=0
+Wasting fuel; throttled to 0.16
+alt=91155;v=-386;deltaV=-1
+alt=91676;v=-386;deltaV=-1
+Wasting fuel; throttled to 0.15
+alt=92198;v=-386;deltaV=0
+alt=92721;v=-387;deltaV=0
+Wasting fuel; throttled to 0.15
+alt=93223;v=-387;deltaV=0
+alt=93747;v=-387;deltaV=0
+Wasting fuel; throttled to 0.15
+alt=94260;v=-387;deltaV=0
+alt=94774;v=-387;deltaV=0
+Wasting fuel; throttled to 0.15
+alt=95279;v=-388;deltaV=0
+alt=95794;v=-388;deltaV=0
+Wasting fuel; throttled to 0.15
+alt=96320;v=-388;deltaV=0
+alt=96837;v=-389;deltaV=0
+Wasting fuel; throttled to 0.15
+alt=97344;v=-389;deltaV=0
+alt=97882;v=-390;deltaV=0
+Wasting fuel; throttled to 0.15
+alt=98401;v=-390;deltaV=0
+alt=98951;v=-391;deltaV=-1
+Wasting fuel; throttled to 0.14
+alt=99460;v=-391;deltaV=0
+alt=99971;v=-391;deltaV=0
+Wasting fuel; throttled to 0.14
+alt=100501;v=-391;deltaV=0
+alt=101033;v=-391;deltaV=0
+Wasting fuel; throttled to 0.14
+alt=101575;v=-392;deltaV=0
+alt=102096;v=-392;deltaV=0
+Wasting fuel; throttled to 0.14
+alt=102639;v=-392;deltaV=0
+alt=103162;v=-393;deltaV=0
+Wasting fuel; throttled to 0.14
+alt=103716;v=-393;deltaV=0
+alt=104250;v=-394;deltaV=0
+Wasting fuel; throttled to 0.14
+alt=104775;v=-394;deltaV=0
+alt=105310;v=-395;deltaV=0
+Wasting fuel; throttled to 0.14
+alt=105826;v=-395;deltaV=0
+alt=106373;v=-396;deltaV=-1
+Wasting fuel; throttled to 0.13
+alt=106910;v=-396;deltaV=0
+alt=107448;v=-396;deltaV=0
+Wasting fuel; throttled to 0.13
+alt=107996;v=-396;deltaV=0
+alt=108534;v=-396;deltaV=0
+Wasting fuel; throttled to 0.13
+alt=109082;v=-396;deltaV=0
+alt=109610;v=-396;deltaV=0
+Wasting fuel; throttled to 0.13
+alt=110129;v=-397;deltaV=0
+alt=110668;v=-397;deltaV=0
+Wasting fuel; throttled to 0.13
+alt=111207;v=-397;deltaV=0
+alt=111737;v=-397;deltaV=0
+Wasting fuel; throttled to 0.13
+alt=112267;v=-398;deltaV=0
+alt=112808;v=-398;deltaV=0
+Wasting fuel; throttled to 0.13
+alt=113360;v=-398;deltaV=0
+alt=113892;v=-399;deltaV=0
+Wasting fuel; throttled to 0.13
+alt=114424;v=-399;deltaV=0
+alt=114957;v=-400;deltaV=0
+Wasting fuel; throttled to 0.13
+alt=115501;v=-400;deltaV=0
+alt=116056;v=-401;deltaV=-1
+Wasting fuel; throttled to 0.12
+alt=116602;v=-401;deltaV=0
+alt=117168;v=-401;deltaV=0
+Wasting fuel; throttled to 0.12
+alt=117703;v=-401;deltaV=0
+alt=118259;v=-401;deltaV=0
+Wasting fuel; throttled to 0.12
+alt=118805;v=-401;deltaV=0
+alt=119373;v=-401;deltaV=0
+Wasting fuel; throttled to 0.12
+alt=119919;v=-401;deltaV=0
+alt=120455;v=-402;deltaV=0
+Wasting fuel; throttled to 0.12
+alt=120992;v=-402;deltaV=0
+alt=121550;v=-402;deltaV=0
+Wasting fuel; throttled to 0.12
+alt=122109;v=-402;deltaV=0
+alt=122668;v=-403;deltaV=0
+Wasting fuel; throttled to 0.12
+alt=123206;v=-403;deltaV=0
+alt=123766;v=-403;deltaV=0
+Wasting fuel; throttled to 0.12
+alt=124327;v=-404;deltaV=0
+alt=124888;v=-404;deltaV=0
+Wasting fuel; throttled to 0.12
+alt=125418;v=-404;deltaV=0
+alt=125981;v=-405;deltaV=0
+Wasting fuel; throttled to 0.12
+alt=126533;v=-405;deltaV=0
+alt=127086;v=-406;deltaV=0
+Wasting fuel; throttled to 0.12
+alt=127630;v=-406;deltaV=0
+alt=128195;v=-407;deltaV=-1
+Wasting fuel; throttled to 0.11
+alt=128739;v=-407;deltaV=0
+alt=129284;v=-407;deltaV=0
+Wasting fuel; throttled to 0.11
+alt=129850;v=-407;deltaV=0
+alt=130406;v=-407;deltaV=0
+Wasting fuel; throttled to 0.11
+alt=130951;v=-407;deltaV=0
+alt=131497;v=-407;deltaV=0
+Wasting fuel; throttled to 0.11
+alt=132043;v=-407;deltaV=0
+alt=132621;v=-408;deltaV=0
+Wasting fuel; throttled to 0.11
+alt=133168;v=-408;deltaV=0
+alt=133715;v=-408;deltaV=0
+Wasting fuel; throttled to 0.11
+alt=134273;v=-408;deltaV=0
+alt=134832;v=-409;deltaV=0
+Wasting fuel; throttled to 0.11
+alt=135391;v=-409;deltaV=0
+alt=135929;v=-409;deltaV=0
+Wasting fuel; throttled to 0.11
+alt=136489;v=-409;deltaV=0
+alt=137060;v=-410;deltaV=0
+Wasting fuel; throttled to 0.11
+alt=137621;v=-410;deltaV=0
+alt=138194;v=-411;deltaV=0
+Wasting fuel; throttled to 0.11
+alt=138735;v=-411;deltaV=0
+alt=139298;v=-412;deltaV=0
+Wasting fuel; throttled to 0.11
+alt=139873;v=-412;deltaV=-1
+alt=140438;v=-413;deltaV=0
+Wasting fuel; throttled to 0.11
+alt=140992;v=-413;deltaV=-1
+alt=141570;v=-414;deltaV=-1
+Wasting fuel; throttled to 0.0999999999999996
+alt=142137;v=-414;deltaV=0
+alt=142714;v=-414;deltaV=0
+Wasting fuel; throttled to 0.0999999999999996
+alt=143271;v=-414;deltaV=0
+alt=143849;v=-414;deltaV=0
+Wasting fuel; throttled to 0.0999999999999996
+alt=144406;v=-414;deltaV=0
+alt=144974;v=-414;deltaV=0
+Wasting fuel; throttled to 0.0999999999999996
+alt=145553;v=-414;deltaV=0
+alt=146111;v=-414;deltaV=0
+Wasting fuel; throttled to 0.0999999999999996
+alt=146658;v=-415;deltaV=0
+alt=147216;v=-415;deltaV=0
+Wasting fuel; throttled to 0.0999999999999996
+alt=147808;v=-415;deltaV=0
+alt=148389;v=-415;deltaV=0
+Wasting fuel; throttled to 0.0999999999999996
+alt=148971;v=-416;deltaV=0
+alt=149564;v=-416;deltaV=0
+Wasting fuel; throttled to 0.0999999999999996
+alt=150158;v=-416;deltaV=0
+alt=150752;v=-416;deltaV=0
+Wasting fuel; throttled to 0.0999999999999996
+alt=151325;v=-417;deltaV=0
+alt=151898;v=-417;deltaV=0
+Wasting fuel; throttled to 0.0999999999999996
+alt=152473;v=-418;deltaV=0
+alt=153036;v=-418;deltaV=0
+Wasting fuel; throttled to 0.0999999999999996
+alt=153612;v=-419;deltaV=0
+alt=154177;v=-419;deltaV=0
+Wasting fuel; throttled to 0.0999999999999996
+alt=154754;v=-419;deltaV=0
+alt=155310;v=-420;deltaV=0
+Wasting fuel; throttled to 0.0999999999999996
+alt=155900;v=-420;deltaV=-1
+alt=156457;v=-421;deltaV=-1
+Wasting fuel; throttled to 0.0899999999999996
+alt=157037;v=-421;deltaV=0
+alt=157606;v=-421;deltaV=0
+Wasting fuel; throttled to 0.0899999999999996
+alt=158186;v=-421;deltaV=0
+alt=158767;v=-421;deltaV=0
+Wasting fuel; throttled to 0.0899999999999996
+alt=159325;v=-421;deltaV=0
+alt=159895;v=-421;deltaV=0
+Wasting fuel; throttled to 0.0899999999999996
+alt=160454;v=-421;deltaV=0
+alt=161036;v=-421;deltaV=0
+Wasting fuel; throttled to 0.0899999999999996
+alt=161606;v=-422;deltaV=0
+alt=162177;v=-422;deltaV=0
+Wasting fuel; throttled to 0.0899999999999996
+alt=162749;v=-422;deltaV=0
+alt=163309;v=-422;deltaV=0
+Wasting fuel; throttled to 0.0899999999999996
+alt=163882;v=-422;deltaV=0
+alt=164477;v=-423;deltaV=0
+Wasting fuel; throttled to 0.0899999999999996
+alt=165061;v=-423;deltaV=0
+alt=165635;v=-423;deltaV=0
+Wasting fuel; throttled to 0.0899999999999996
+alt=166209;v=-423;deltaV=0
+alt=166806;v=-424;deltaV=0
+Wasting fuel; throttled to 0.0899999999999996
+alt=167393;v=-424;deltaV=0
+alt=167980;v=-424;deltaV=0
+Wasting fuel; throttled to 0.0899999999999996
+alt=168556;v=-425;deltaV=0
+alt=169122;v=-425;deltaV=0
+Wasting fuel; throttled to 0.0899999999999996
+alt=169723;v=-426;deltaV=0
+alt=170312;v=-424;deltaV=1
+Wasting fuel; throttled to 0.0999999999999996
+alt=170897;v=-419;deltaV=5

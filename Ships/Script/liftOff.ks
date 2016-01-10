@@ -1,0 +1,2 @@
+stage.
+print "Lift off!".

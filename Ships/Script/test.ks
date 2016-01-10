@@ -1,7 +1,4 @@
-print "Importing files".
-copy prep from 0.
-copy limV from 0.
-print "Preparing to launch".
-run prep.
-print "Attempting to conserve fuel".
-run limV.
+print "Preparing to run test...".
+local name to "circularize".
+import(name).
+run circularize.
